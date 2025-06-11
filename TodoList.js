@@ -95,7 +95,7 @@ const styles = StyleSheet.create({
   todoItem: {
     backgroundColor: '#BBDEFB',
     padding: 15,
-    borderRadius: 10,
+    borderRadius: 11,
     marginBottom: 10,
     flexDirection: 'row',
     justifyContent: 'space-between',
