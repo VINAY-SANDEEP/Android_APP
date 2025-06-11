@@ -31,8 +31,8 @@ const AVATAR_IMAGE = 'https://randomuser.me/api/portraits/men/32.jpg';
 const PRIMARY_COLOR = '#2563eb';     // Blue-600
 const PRIMARY_GRADIENT = ['#2563eb', '#1d4ed8'];
 const TEXT_COLOR = '#1f2937';        // Gray-800
-const SUBTEXT_COLOR = '#6b7280';     // Gray-500
-const BG_LIGHT = '#f9fafb';          // Gray-50
+const SUBTEXT_COLOR = '#6b7280';     
+const BG_LIGHT = '#f9fafb';          
 const WHITE = '#ffffff';
 const CARD_SHADOW = {
   shadowColor: '#000',
